@@ -15,8 +15,7 @@
 ## 🛠️ Skills
 
 ### 👨‍💻 Languages
-- C  
-- C++  
+- C  | C++ | Python  
 
 ### 📚 Currently Learning
 - Data Structures  
