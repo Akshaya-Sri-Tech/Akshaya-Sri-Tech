@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Akshaya Sri!
 
-🎯 *Beginner Programmer | Learning C & C++*
+🎯  Aspiring Software Developer | Learning C & C++*
 
 ---
 
