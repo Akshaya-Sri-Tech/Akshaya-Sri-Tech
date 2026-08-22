@@ -1,71 +1,134 @@
 <div align="center">
 
-# AKSHAYA SRI K R
-
-### CSE Student · MIT, Anna University
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=24&duration=2600&pause=800&color=4F46E5&center=true&vCenter=true&width=760&lines=Data+Structures+%26+Competitive+Programming;Building+with+C%2FC%2B%2B;Preparing+for+ICPC;Learning+by+building+real+projects;Looking+for+hands-on+engineering+opportunities" alt="Typing animation"/>
-
-<br>
-
-<a href="https://github.com/Akshaya-Sri-Tech">GitHub</a>
- ·  <a href="https://www.linkedin.com/in/krakshayasri/">LinkedIn</a>
- ·  <a href="https://leetcode.com/u/AkCodeZone/">LeetCode</a>
- ·  <a href="https://codeforces.com/profile/AkCodez">Codeforces</a>
- ·  <a href="mailto:akshaya.karthik87@gmail.com">Gmail</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F37C9,50:4338CA,100:6C63FF&height=240&section=header&text=AKSHAYA%20SRI%20K%20R&font=Merriweather&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20Student%20%40%20MIT%2C%20Anna%20University%20%7C%20Runner-Up%20%40%20Vyuhathon%201.0&descFont=Merriweather&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="AKSHAYA SRI K R"/><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=18&duration=2800&pause=800&color=818CF8&center=true&vCenter=true&width=950&height=45&lines=%E2%9A%A1+Building+with+C%2FC%2B%2B+%7C+Web+Dev+%7C+AI%2FML+%7C+GitLite;%E2%9A%99%EF%B8%8F+Low-Level+DSA+in+C+%26+Competitive+Programming+in+C%2B%2B;%F0%9F%8F%86+Runner-Up+%40+Vyuhathon+1.0+%7C+Preparing+for+ICPC" alt="Typing animation"/>
+<a href="https://github.com/Akshaya-Sri-Tech">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/krakshayasri/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/AkCodeZone/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/AkCodez">
+<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+&nbsp;
+<a href="mailto:akshaya.karthik87@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
 
 ---
 
-## PROFILE
+## 📌 WHAT I CODE
 
-> **Computer Science student focused on building strong fundamentals in DSA,
-> competitive programming and software engineering — while continuously
-> turning what I learn into working projects.**
-
-Currently exploring **C/C++, Java, Python, web development and AI/ML**, with a
-stronger focus on **DSA + Competitive Programming + ICPC**.
+⚙️ Building systems with **C/C++** while exploring web development, AI/ML, and real-world projects like **GitLite**.
+🧠 Learning DSA from the ground up in **C**; sharpening algorithmic problem-solving in **C++** through LeetCode & Codeforces.
 
 ---
 
-## CURRENTLY
+## ⚡ MY DSA JOURNEY
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🧠 DSA
+### 🔬 Low-Level C
 
-**Ongoing**
+Implementing custom **data structures & ADTs from scratch** to understand how they work at the memory and implementation level.
 
-ADT implementations in C
-LeetCode in C++
-Codeforces in C++
-
-</td>
-
-<td align="center" width="33%">
-
-### 🏆 ICPC
-
-**Preparing**
-
-Problem solving
-Algorithms
-Competitive Programming
+- Raw pointers
+- Dynamic memory allocation
+- Structures
+- Manual memory management
+- Recursion
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 💻 BUILDING
+### 🎯 Algorithmic C++
 
-**Hands-on**
+Solving problems on **LeetCode & Codeforces** to develop algorithmic thinking, pattern recognition, complexity analysis, and problem-solving speed.
 
-C/C++ projects
-Web development
-AI/ML exploration
+- Problem-solving patterns
+- Complexity analysis
+- Optimization
+- Competitive programming
+- Placement preparation
+
+</td>
+</tr>
+</table>
+
+> **C → understand what happens underneath. &nbsp;&nbsp; C++ → solve problems effectively.**
+
+---
+
+## 🛠️ PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 GitLite
+
+A Git-inspired **Version Control System built from scratch in C++17**, exploring repository architecture, content-addressable storage, staging indexes, and commit snapshots.
+
+**Stack:** ⚡ C++17 · 📁 Filesystem · 🖥️ CLI
+
+**Status:** 🚧 IN DEVELOPMENT
+
+<a href="https://github.com/Akshaya-Sri-Tech">Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 AkZone — Portfolio
+
+Personal developer portfolio designed to showcase projects, technical journey, coding profiles, and achievements with responsive design patterns.
+
+**Stack:** 🌐 HTML5 · 🎨 CSS3 · ⚡ JavaScript
+
+**Status:** 🚧 IN DEVELOPMENT
+
+<a href="https://github.com/Akshaya-Sri-Tech">Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Code Complexity Analyzer
+
+A C++ static code analysis tool evaluating source code using line counts, structural nesting depth, recursion detection, and conditional density.
+
+**Stack:** ⚡ C++ · 🧩 OOP · 📁 File I/O
+
+**Status:** ✅ COMPLETED
+
+<a href="https://github.com/Akshaya-Sri-Tech">Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📋 CLI Task Manager
+
+Command-line utility supporting task creation, updates, completion tracking, and persistent data storage through file streams.
+
+**Stack:** 💻 C · 📁 File Handling · 🖥️ CLI
+
+**Status:** ✅ COMPLETED
+
+<a href="https://github.com/Akshaya-Sri-Tech">Repository →</a>
 
 </td>
 </tr>
@@ -73,189 +136,60 @@ AI/ML exploration
 
 ---
 
-# PROOF OF WORK
+## 🏆 HACKATHONS & HIGHLIGHTS
+
+### 🥈 Vyuhathon 1.0 — Chakravyuha'26
+
+**RUNNER-UP**
+
+Engineered a **multimodal Agentic AI healthcare prototype** analyzing text, audio, and image/video inputs with automated alerting and appointment orchestration.
+
+**Tech Stack:** 🐍 Python · ⚡ Streamlit · 🔄 n8n · 🤖 Agentic AI
+
+---
+
+## 💻 TECH STACK
 
 <table>
 <tr>
-<td align="center">
-
-### 60+
-
-**LeetCode Problems**
-
+<td width="22%" valign="top"><b>💻 LANGUAGES</b></td>
+<td>
+C · C++ · Python · HTML5 · CSS3
 </td>
+</tr>
 
-<td align="center">
-
-### 🏆 Runner-Up
-
-**Vyuhathon 1.0**
-
+<tr>
+<td valign="top"><b>🧠 CORE</b></td>
+<td>
+Data Structures & Algorithms · Competitive Programming · Object-Oriented Programming
 </td>
+</tr>
 
-<td align="center">
-
-### 5+
-
-**Projects / Builds**
-
+<tr>
+<td valign="top"><b>🛠️ TOOLS</b></td>
+<td>
+Git · GitHub · n8n
 </td>
+</tr>
 
-<td align="center">
-
-### 9.86
-
-**CGPA**
-
+<tr>
+<td valign="top"><b>🔭 EXPLORING</b></td>
+<td>
+AI/ML · Web Development
 </td>
 </tr>
 </table>
-
----
-
-# DSA JOURNEY
-
-### College Foundations — `C`
-
-Building DSA from the implementation level rather than only solving library-based problems.
-
-Arrays · Linked Lists · Stacks · Queues · Trees · ADT Implementation
-
-### Problem Solving — `C++`
-
-Actively solving problems on **LeetCode** and **Codeforces** while developing pattern recognition, complexity analysis and problem-solving speed.
-
-**Goal:** ICPC → stronger competitive programming → stronger engineering fundamentals.
-
----
-
-# PROJECTS
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### GitLite
-
-**C++ · OOPS · File Handling**
-
-A mini version-control system inspired by Git, built from scratch to understand core version-control concepts.
-
-**Status:** `IN PROGRESS`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Portfolio
-
-**HTML · CSS · Responsive Design**
-
-Personal developer portfolio focused on responsive layouts, clean presentation and showcasing technical work.
-
-**Status:** `IN PROGRESS`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Task Manager
-
-**C · File Handling**
-
-Command-line task manager supporting task creation, updates, deletion and completion tracking with persistent storage.
-
-**Status:** `COMPLETED`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Code Complexity Analyser
-
-**C++ · OOPS**
-
-Analyses source code using line count, nesting depth, recursion usage and conditional complexity.
-
-**Status:** `COMPLETED`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" valign="top">
-
-### Vyuhathon 1.0 — Chakravyuha'26
-
-**Python · Streamlit · n8n · Agentic AI**
-
-🏆 **Runner-Up**
-
-Built an Agentic AI healthcare prototype analysing text, audio and image/video inputs, with automated workflows for alerts, escalation and appointment booking.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# EDUCATION
-
-### Madras Institute of Technology — Anna University
-
-**B.E. Computer Science and Engineering**
-`2025 — Present` · **9.86 / 10 CGPA**
-
----
-
-# ACHIEVEMENTS
-
-**99% HSC — School 1st in Science Group** · **98.4% SSLC — School 1st**
-
-🏆 **Runner-Up — Vyuhathon 1.0, Chakravyuha'26**
-
----
-
-# TECHNICAL STACK
-
-| Area            | Technologies                         |
-| --------------- | ------------------------------------ |
-| **Programming** | C · C++ · Java · Python              |
-| **Core**        | DSA · OOPS · Competitive Programming |
-| **Frontend**    | HTML · CSS                           |
-| **Database**    | MySQL                                |
-| **Tools**       | Git · GitHub · n8n                   |
-| **Exploring**   | AI/ML                                |
 
 ---
 
 <div align="center">
 
-## THE NEXT MILESTONE
+## 🚀 NEXT MILESTONE
 
-**DSA → Competitive Programming → ICPC → Real-world Engineering**
+### 🧠 DSA Foundations ➔ 🎯 Competitive Programming ➔ 🏆 ICPC ➔ ⚙️ Systems Engineering
 
-<br>
+**Learning from the fundamentals. Building from scratch. Solving harder problems.**
 
-I'm looking for opportunities to **learn from strong engineering teams,
-contribute to real projects and gain hands-on industry experience.**
-
-<br>
-
-<a href="https://github.com/Akshaya-Sri-Tech">GitHub</a>
- ·  <a href="https://www.linkedin.com/in/krakshayasri/">LinkedIn</a>
- ·  <a href="https://leetcode.com/u/AkCodeZone/">LeetCode</a>
- ·  <a href="https://codeforces.com/profile/AkCodez">Codeforces</a>
- ·  <a href="mailto:akshaya.karthik87@gmail.com">Gmail</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:4338CA,100:3F37C9&height=160&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
-
-
