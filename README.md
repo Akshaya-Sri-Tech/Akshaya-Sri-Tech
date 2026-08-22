@@ -84,7 +84,7 @@ A Git-inspired **Version Control System built from scratch in C++17**, exploring
 
 **Status:** 🚧 IN DEVELOPMENT
 
-<a href="https://github.com/Akshaya-Sri-Tech">Repository →</a>
+<a href="https://github.com/Akshaya-Sri-Tech/GitLite">Repository →</a>
 
 </td>
 
@@ -98,7 +98,7 @@ Personal developer portfolio designed to showcase projects, technical journey, c
 
 **Status:** 🚧 IN DEVELOPMENT
 
-<a href="https://github.com/Akshaya-Sri-Tech">Repository →</a>
+<a href="https://github.com/Akshaya-Sri-Tech/AkZone-Portfolio">Repository →</a>
 
 </td>
 </tr>
