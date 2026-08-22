@@ -128,7 +128,7 @@ Command-line utility supporting task creation, updates, completion tracking, and
 
 **Status:** ✅ COMPLETED
 
-<a href="https://github.com/Akshaya-Sri-Tech">Repository →</a>
+<a href="https://github.com/Akshaya-Sri-Tech/Task-Manager-CLI">Repository →</a>
 
 </td>
 </tr>
